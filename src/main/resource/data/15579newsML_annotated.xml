@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960827/15579newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>USA: Netscape agrees to support Apple technology.<Node id="50"/>
+<Node id="51"/>Netscape agrees to <Node id="70"/>support<Node id="77"/> Apple technology<Node id="94"/>.<Node id="95"/>
+<Node id="96"/>Samuel Perry<Node id="108"/>
+<Node id="109"/>MOUNTAIN VIEW, Calif. 1996-08-27<Node id="141"/>
+<Node id="142"/>
+<Node id="143"/>Netscape Communications Corp.<Node id="172"/> gave a boost<Node id="185"/> Tuesday to<Node id="196"/> Apple Computer Inc.'s efforts<Node id="226"/> to make the Internet a key element in its turnaround strategy.<Node id="289"/>
+<Node id="290"/>The<Node id="293"/> two companies<Node id="307"/> said<Node id="312"/> Netscape had agreed to develop a new version of its Netscape Navigator Internet browser<Node id="400"/> that<Node id="405"/> supports<Node id="414"/> <Node id="415"/>Apple's Cyberdog Internet search software<Node id="456"/> as well as OpenDoc, software backed by Apple for manipulating documents.<Node id="529"/>
+<Node id="530"/>Apple will distribute Netscape Navigator for Cyberdog with its Mac operating system and plans to incorporate the browser in future versions of its Mac system for Apple computers.<Node id="708"/>
+<Node id="709"/>Cyberdog allows Internet sufers to navigate by clicking on icons, for example, while Opendoc allows people to mix and match software combining text, graphics and video from different systems.<Node id="900"/>
+<Node id="901"/>Analysts<Node id="909"/> said the <Node id="919"/>move underscores Apple's commitment to developing Internet technologies and extends the relationship between the two companies at a time when they are both facing extreme competitive pressure<Node id="1110"/>.<Node id="1111"/>
+<Node id="1112"/>"Hopefully, this will jump-start Apple's (Internet business). Apple's future really is the Internet," said Steve Harmon, senior investment analyst at Meckermedia Corp.<Node id="1279"/>
+<Node id="1280"/>"I just wonder if they're moving fast enough, even with a partnership with Netscape," he said.<Node id="1374"/>
+<Node id="1375"/>Apple Computer has been reeling from weak sales and a major restructuring that forced it to take substantial charges and post a record $740 million loss in its second fiscal quarter.<Node id="1557"/>
+<Node id="1558"/>The Cupertino, Calif.-based pioneer of the personal computer, which is known for the ease of use and the graphics capabilities of its Macintosh machines, has said the Internet and multimedia are central to its future development.<Node id="1787"/>
+<Node id="1788"/>Larry Tesler, an Apple veteran who was named to head the AppleNet division earlier this year, recently said the company is now focused on the Internet and his group was working to cut development times dramatically.<Node id="2003"/>
+<Node id="2004"/>The pace of Internet rollouts has been also speeded in part by the escalating marketing battle between Netscape, which leads the market with nearly 80 percent of the Web browsers, and software giant Microsoft Corp. .<Node id="2220"/>
+<Node id="2221"/>Both Netscape and Microsoft have introduced new versions of their browsers this month, and, despite Netscape's lead in the market with some 40 million copies of Netscape Navigator in circulation, some analysts look at it as the underdog.<Node id="2458"/>
+<Node id="2459"/>Earlier this month, a lawyer for Netscape wrote to the Department of Justice complaining that Microsoft had allegedly violated a 1994 consent decree and violated antitrust laws to promote its browser, a charge Microsoft denies.<Node id="2686"/>
+<Node id="2687"/>Microsoft has not been a supporter of Opendoc, a standard for use in systems such as the Mac, Windows, Windows NT and International Business Machines Corp.'s OS/2 and AIX operating systems, while Netscape has been seeking to embrace cross-platform capabilities.<Node id="2948"/>
+<Node id="2949"/>But analysts also note that the relation between the companies remains complicated.<Node id="3032"/>
+<Node id="3033"/>Microsoft is the largest producer of applications for Apple's Mac system even though its Windows system dominates the personal computer market. And most machines running Netscape Navigator are running it on top of Microsoft's Windows system.<Node id="3274"/>
+<Node id="3275"/>
+<Node id="3276"/>(c) Reuters Limited 1996<Node id="3300"/>
+<Node id="3301"/>
+<Node id="3302"/>
+  <Node id="3305"/>
+    <Node id="3310"/>
+  <Node id="3313"/>
+<Node id="3314"/>
+<Node id="3315"/>
+<Node id="3316"/>
+<Node id="3317"/>
+<Node id="3318"/>
+<Node id="3319"/>
+<Node id="3320"/>
+<Node id="3321"/>
+<Node id="3322"/>
+<Node id="3323"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="source_phrase" StartNode="70" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="direct_target" StartNode="77" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="sentence" StartNode="51" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="source_phrase" StartNode="172" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="direct_target" StartNode="196" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="sentence" StartNode="143" EndNode="289">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="narrator" StartNode="293" EndNode="307">
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="source_phrase" StartNode="405" EndNode="414">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="direct_target" StartNode="415" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="subject" StartNode="312" EndNode="400">
+<Feature>
+  <Name className="java.lang.String">subject_id</Name>
+  <Value className="java.lang.String">Sub3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="sentence" StartNode="290" EndNode="529">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="sentence" StartNode="530" EndNode="708">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="sentence" StartNode="709" EndNode="900">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="narrator" StartNode="901" EndNode="909">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="sentence" StartNode="901" EndNode="1111">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="source_phrase" StartNode="919" EndNode="1110">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="3323">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-27</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">15579</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="50">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="51" EndNode="95">
+</Annotation>
+<Annotation Id="3" Type="byline" StartNode="96" EndNode="108">
+</Annotation>
+<Annotation Id="4" Type="dateline" StartNode="109" EndNode="141">
+</Annotation>
+<Annotation Id="5" Type="text" StartNode="142" EndNode="3275">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="143" EndNode="289">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="290" EndNode="529">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="530" EndNode="708">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="709" EndNode="900">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="901" EndNode="1111">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1112" EndNode="1279">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1280" EndNode="1374">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1375" EndNode="1557">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1558" EndNode="1787">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1788" EndNode="2003">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="2004" EndNode="2220">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="2221" EndNode="2458">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="2459" EndNode="2686">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2687" EndNode="2948">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="2949" EndNode="3032">
+</Annotation>
+<Annotation Id="21" Type="p" StartNode="3033" EndNode="3274">
+</Annotation>
+<Annotation Id="22" Type="copyright" StartNode="3276" EndNode="3300">
+</Annotation>
+<Annotation Id="23" Type="metadata" StartNode="3301" EndNode="3322">
+</Annotation>
+<Annotation Id="24" Type="codes" StartNode="3302" EndNode="3314">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="code" StartNode="3305" EndNode="3313">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">USA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="editdetail" StartNode="3310" EndNode="3310">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-27</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="dc" StartNode="3315" EndNode="3315">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-27</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="3316" EndNode="3316">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="3317" EndNode="3317">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-27</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="3318" EndNode="3318">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="3319" EndNode="3319">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">MOUNTAIN VIEW, Calif.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="3320" EndNode="3320">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">USA</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="3321" EndNode="3321">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/810380newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>JAPAN: U.S. Treasuries easier in Tokyo on UPS news.<Node id="52"/>
+<Node id="53"/>U.S. Treasuries easier in Tokyo on UPS news.<Node id="97"/>
+<Node id="98"/>TOKYO 1997-08-19<Node id="114"/>
+<Node id="115"/>
+<Node id="116"/>U.S. Treasuries were easier in Tokyo on Tuesday after United Parcel Service (UPS) said it had reached a tentative pact on a contract with International Brotherhood of Teamsters to end the Teamsters' 15-day strike.<Node id="329"/>
+<Node id="330"/>Traders said sales by New York operators slightly depressed prices across the board, but the impact on Treasury prices was so far limited.<Node id="468"/>
+<Node id="469"/>"T-bonds have come off a bit as the market was hoping for a long strike, which would depress GDP and non-farm payrolls for a while," a manager at a French brokerage house said.  <Node id="647"/>
+<Node id="648"/>While the impact of the UPS news was limited, it could have a bigger effect on the market later, traders said.<Node id="758"/>
+<Node id="759"/>"I think many people were looking this as a symbol of what's happening in the labour market. The market fears that such an early agreement means the management might have completely surrendered to the demands of the union," he said.<Node id="991"/>
+<Node id="992"/>"If that is true, then the market is worried that we might be seeing the beginning of the end of the long period of low wage inflation."<Node id="1128"/>
+<Node id="1129"/>The benchmark 6-3/8 percent 30-year bond stood at 97-27/32, yielding 6.54 percent, compared with 98-3/32 in New York.  <Node id="1248"/>
+<Node id="1249"/>UPS said that under an agreement with Labor Secretary Alexis Herman, who has been pressing the two sides to make compromises at the negotiating table, no details of the tentative deal would be spelled out before Tuesday morning U.S. time.<Node id="1487"/>
+<Node id="1488"/>Traders said they were eager to see the conditions of the agreement and that conditions could determine the near-term trend of the Treasury market.<Node id="1635"/>
+<Node id="1636"/>The futures market also fell on the news, with the September T-bond futures crawling around a low of 113-27/32 by midday. It had been moving in a range of 113-27/32 to 114-7/32.  <Node id="1815"/>
+<Node id="1816"/>The market was expected to pay a close attention to price movements on Wall Street and to the dollar, traders said.<Node id="1931"/>
+<Node id="1932"/>"T-bond prices have been firming in New York for the past several sessions, but underlying sentiment is still unclear," a senior U.S. brokerage trader said. "We should closely watch the trend in the stock market and the dollar."<Node id="2160"/>
+<Node id="2161"/>The market was looking towards the Federal Open Market Committee (FOMC) meeting later in the day, but most participants do not expect the Federal Reserve to tighten credit at this meeting, traders said.<Node id="2363"/>
+<Node id="2364"/>
+<Node id="2365"/>(c) Reuters Limited 1997<Node id="2389"/>
+<Node id="2390"/>
+<Node id="2391"/>
+  <Node id="2394"/>
+    <Node id="2399"/>
+  <Node id="2402"/>
+<Node id="2403"/>
+<Node id="2404"/>
+  <Node id="2407"/>
+    <Node id="2412"/>
+  <Node id="2415"/>
+  <Node id="2418"/>
+    <Node id="2423"/>
+  <Node id="2426"/>
+<Node id="2427"/>
+<Node id="2428"/>
+<Node id="2429"/>
+<Node id="2430"/>
+<Node id="2431"/>
+<Node id="2432"/>
+<Node id="2433"/>
+<Node id="2434"/>
+<Node id="2435"/>
+<Node id="2436"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="35" Type="sentence" StartNode="53" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="2436">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">810380</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="52">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="53" EndNode="97">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="98" EndNode="114">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="115" EndNode="2364">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="116" EndNode="329">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="330" EndNode="468">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="469" EndNode="647">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="648" EndNode="758">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="759" EndNode="991">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="992" EndNode="1128">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1129" EndNode="1248">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1249" EndNode="1487">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1488" EndNode="1635">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1636" EndNode="1815">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1816" EndNode="1931">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1932" EndNode="2160">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="2161" EndNode="2363">
+</Annotation>
+<Annotation Id="18" Type="copyright" StartNode="2365" EndNode="2389">
+</Annotation>
+<Annotation Id="19" Type="metadata" StartNode="2390" EndNode="2435">
+</Annotation>
+<Annotation Id="20" Type="codes" StartNode="2391" EndNode="2403">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="code" StartNode="2394" EndNode="2402">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">JAP</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="editdetail" StartNode="2399" EndNode="2399">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="codes" StartNode="2404" EndNode="2427">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="code" StartNode="2407" EndNode="2415">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="editdetail" StartNode="2412" EndNode="2412">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="code" StartNode="2418" EndNode="2426">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">MCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="editdetail" StartNode="2423" EndNode="2423">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="2428" EndNode="2428">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="2429" EndNode="2429">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="2430" EndNode="2430">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="2431" EndNode="2431">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="2432" EndNode="2432">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">TOKYO</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="2433" EndNode="2433">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">JAPAN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="2434" EndNode="2434">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

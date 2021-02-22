@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/809948newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>SWEDEN: Swedish shares rise on New York, Autoliv surges.<Node id="57"/>
+<Node id="58"/>Swedish shares rise on New York, Autoliv surges.<Node id="106"/>
+<Node id="107"/>STOCKHOLM 1997-08-19<Node id="127"/>
+<Node id="128"/>
+<Node id="129"/>Swedish shares ended higher on Tuesday as a stronger U.S. market helped them recover from Monday's fall.<Node id="233"/>
+<Node id="234"/>The general index rose 1.67 percent to 3,183.18 in turnover of 5.07 billion crowns.<Node id="317"/>
+<Node id="318"/>"We will probably have to get used to trade being a bit jerky," a dealer said. "Volatility will probably remain high but the underlying trend is upwards."<Node id="472"/>
+<Node id="473"/>Car safety equipment Autoliv was a winner, up 20 crowns to 307.5 after Goldman Sachs put it on its recommended list with a target price of $43 a share in three to six months.<Node id="647"/>
+<Node id="648"/>"Many are positive to the share and when Autoliv starts picking up nobody wants to let go of it," a dealer said.<Node id="760"/>
+<Node id="761"/>Truck maker Kalmar Industries rocketed 17 crowns to 165 after news of merging with Finnish cargo handling and building materials group Partek's subsidiary STS.<Node id="920"/>
+<Node id="921"/>"All in all it looks positive," a dealer said. "They are creating a larger player on a market that needs restructuring."<Node id="1041"/>
+<Node id="1042"/>Banking group Handelsbanken, insurer Trygg-Hansa and rubber and mining group Trelleborg took different directions after releasing six months earnings.<Node id="1192"/>
+<Node id="1193"/>Handelsbanken rose 4.5 to 252 on a higher than expected profit, Trygg-Hansa dropped four crowns to 170, partly because of some fears of overdependency on equity moves, and Trelleborg edged 0.5 crown higher to 128.<Node id="1406"/>
+<Node id="1407"/>Insurer Skandia surged 17 crowns to 332 ahead of releasing six-month figures on Wednesday.<Node id="1497"/>
+<Node id="1498"/>Heavyweights telecoms group Ericsson and drugs group Astra were also pulled up in the general rebound with Ericsson jumping 8.5 crowns to 356 and Astra rising one crown to 133.5.<Node id="1676"/>
+<Node id="1677"/>
+<Node id="1678"/>(c) Reuters Limited 1997<Node id="1702"/>
+<Node id="1703"/>
+<Node id="1704"/>
+  <Node id="1707"/>
+    <Node id="1712"/>
+  <Node id="1715"/>
+<Node id="1716"/>
+<Node id="1717"/>
+  <Node id="1720"/>
+    <Node id="1725"/>
+  <Node id="1728"/>
+  <Node id="1731"/>
+    <Node id="1736"/>
+  <Node id="1739"/>
+<Node id="1740"/>
+<Node id="1741"/>
+<Node id="1742"/>
+<Node id="1743"/>
+<Node id="1744"/>
+<Node id="1745"/>
+<Node id="1746"/>
+<Node id="1747"/>
+<Node id="1748"/>
+<Node id="1749"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="33" Type="sentence" StartNode="58" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1749">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">809948</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="57">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="58" EndNode="106">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="107" EndNode="127">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="128" EndNode="1677">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="129" EndNode="233">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="234" EndNode="317">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="318" EndNode="472">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="473" EndNode="647">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="648" EndNode="760">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="761" EndNode="920">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="921" EndNode="1041">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1042" EndNode="1192">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1193" EndNode="1406">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1407" EndNode="1497">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1498" EndNode="1676">
+</Annotation>
+<Annotation Id="16" Type="copyright" StartNode="1678" EndNode="1702">
+</Annotation>
+<Annotation Id="17" Type="metadata" StartNode="1703" EndNode="1748">
+</Annotation>
+<Annotation Id="18" Type="codes" StartNode="1704" EndNode="1716">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="code" StartNode="1707" EndNode="1715">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">SWED</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="editdetail" StartNode="1712" EndNode="1712">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="codes" StartNode="1717" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="code" StartNode="1720" EndNode="1728">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="editdetail" StartNode="1725" EndNode="1725">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="code" StartNode="1731" EndNode="1739">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">MCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="editdetail" StartNode="1736" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="dc" StartNode="1741" EndNode="1741">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="dc" StartNode="1742" EndNode="1742">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="1743" EndNode="1743">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="1744" EndNode="1744">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="1745" EndNode="1745">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">STOCKHOLM</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="1746" EndNode="1746">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">SWEDEN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="1747" EndNode="1747">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

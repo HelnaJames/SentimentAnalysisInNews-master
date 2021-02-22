@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/809961newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>POLAND: Polish shares rise, seen up on Wednesday.<Node id="50"/>
+<Node id="51"/>Polish shares rise, seen up on Wednesday.<Node id="92"/>
+<Node id="93"/>WARSAW 1997-08-19<Node id="110"/>
+<Node id="111"/>
+<Node id="112"/>Polish shares rose after two-straight losses and analysts saw another gain on Wednesday with the market cheered by Monday's sharp Dow rebound.<Node id="254"/>
+<Node id="255"/>Analysts said any sharp short-term moves by the Dow could rub off on Poland but that the market's upside would be limited in the run-up to the September 21 parliamentary elections.<Node id="435"/>
+<Node id="436"/>"It seems last week's sharp growth had a speculative character and profit-taking should bring the market to equilibrium," said Mateusz Andrzejewski of Bank Pekao house.<Node id="604"/>
+<Node id="605"/>The main market, currently at 16,564.7 points, had risen 14.5 percent in a six-session period.<Node id="699"/>
+<Node id="700"/>The main market's all-share WIG index rose 0.8 percent to 16,564.7 points and turnover fell 11.8 percent to 140.6 million zlotys ($40.3 million) on all three markets. Gainers led losers by 59 to 43 with 12 stocks flat.<Node id="918"/>
+<Node id="919"/>Some analysts said Polish shares were relatively cheap compared to neighbouring bourses such as Hungary's which rallied in recent months.<Node id="1056"/>
+<Node id="1057"/>Others said significant gains were unlikely as large-cap banks which led the recent surge had largely worn out their growth potential.<Node id="1191"/>
+<Node id="1192"/>Banks which bucked the recent trend and recorded strong July earnings on Monday were among Tuesday's top gainers.<Node id="1305"/>
+<Node id="1306"/>Bank Gdanski rose 10 percent on Monday's news July net profit had risen to 9.8 million zlotys ($2.8 million) from 7.3 million ($2.1 million) a year ago, analysts said.<Node id="1473"/>
+<Node id="1474"/>Automotive group Sobieslaw Zasada, up 9.4 percent, also benefited from good results while bank WBK, which rose nine percent, was also reacting to recent falls, they said.<Node id="1644"/>
+<Node id="1645"/>
+<Node id="1646"/>(c) Reuters Limited 1997<Node id="1670"/>
+<Node id="1671"/>
+<Node id="1672"/>
+  <Node id="1675"/>
+    <Node id="1680"/>
+  <Node id="1683"/>
+<Node id="1684"/>
+<Node id="1685"/>
+  <Node id="1688"/>
+    <Node id="1693"/>
+  <Node id="1696"/>
+  <Node id="1699"/>
+    <Node id="1704"/>
+  <Node id="1707"/>
+  <Node id="1710"/>
+    <Node id="1715"/>
+  <Node id="1718"/>
+<Node id="1719"/>
+<Node id="1720"/>
+<Node id="1721"/>
+<Node id="1722"/>
+<Node id="1723"/>
+<Node id="1724"/>
+<Node id="1725"/>
+<Node id="1726"/>
+<Node id="1727"/>
+<Node id="1728"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="sentence" StartNode="51" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1728">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">809961</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="50">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="51" EndNode="92">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="93" EndNode="110">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="111" EndNode="1645">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="112" EndNode="254">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="255" EndNode="435">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="436" EndNode="604">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="605" EndNode="699">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="700" EndNode="918">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="919" EndNode="1056">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1057" EndNode="1191">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1192" EndNode="1305">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1306" EndNode="1473">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1474" EndNode="1644">
+</Annotation>
+<Annotation Id="15" Type="copyright" StartNode="1646" EndNode="1670">
+</Annotation>
+<Annotation Id="16" Type="metadata" StartNode="1671" EndNode="1727">
+</Annotation>
+<Annotation Id="17" Type="codes" StartNode="1672" EndNode="1684">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="code" StartNode="1675" EndNode="1683">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">POL</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="editdetail" StartNode="1680" EndNode="1680">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="codes" StartNode="1685" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="code" StartNode="1688" EndNode="1696">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GPOL</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="editdetail" StartNode="1693" EndNode="1693">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="code" StartNode="1699" EndNode="1707">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GVOTE</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="editdetail" StartNode="1704" EndNode="1704">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="code" StartNode="1710" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="editdetail" StartNode="1715" EndNode="1715">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="dc" StartNode="1720" EndNode="1720">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="1721" EndNode="1721">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="1722" EndNode="1722">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="1723" EndNode="1723">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="1724" EndNode="1724">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">WARSAW</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="1725" EndNode="1725">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">POLAND</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="1726" EndNode="1726">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

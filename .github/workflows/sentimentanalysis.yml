@@ -1,0 +1,102 @@
+name: Main Build Pipeline
+on:
+   push:
+      branches:
+      - master
+      paths-ignore:
+      - 'README.md'
+
+   workflow_dispatch:
+  
+env:
+   tf_version: 0.14.3
+jobs:
+   main-build:
+      runs-on: ubuntu-latest
+      steps:
+
+      - name: Checkout sources
+        uses: actions/checkout@v2
+
+      -  name: Configure AWS credentials for AWS Users account
+         uses: aws-actions/configure-aws-credentials@v1
+         with:
+            aws-access-key-id: ${{ secrets.TERRAFORM_AWS_ACCESS_KEY_ID }}
+            aws-secret-access-key: ${{ secrets.TERRAFORM_AWS_SECRET_ACCESS_KEY }}
+            aws-region: eu-central-1
+      -  name: Setup SSH Keys and known_hosts for Terraform Modules located in a GitHub Repository
+         env:
+           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+         run: |
+           mkdir -p ~/.ssh
+           ssh-keyscan github.com >> ~/.ssh/known_hosts
+           ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+           ssh-add - <<< "${{ secrets.PIRANHA_GITHUB_MACHINE_USER_SSH_PRIVATE_KEY }}"
+      -  name: Setup Terraform 
+         uses: hashicorp/setup-terraform@v1.3.2
+         with:
+           terraform_version: ${{ env.tf_version }}
+           
+      -  name: Terraform Init for DEV environment
+         working-directory: ./infrastructure/dev/
+         run: terraform init 
+         env:
+           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+      -  name: Terraform Plan for DEV environment
+         working-directory: ./infrastructure/dev/
+         run: terraform plan
+      -  name: Terraform Apply for DEV environment
+         working-directory: ./infrastructure/dev/
+         run: terraform apply
+      -  name: Set up JDK 11
+         uses: actions/setup-java@v1
+         with:
+            java-version: 11.0.9
+            architecture: x64
+      -  name: Set up timezone
+         uses: zcong1993/setup-timezone@master
+         with:
+            timezone: Europe/Berlin
+      -  name: Cache Maven Artifacts
+         uses: actions/cache@v2.1.4
+         with:
+            path: |
+               ~/.m2/repository
+            key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+            restore-keys: |
+               ${{ runner.os }}-maven-
+      -  name: Clean Up Maven Cache
+         run: rm -f -r ~/.m2/repository/de/otto
+         
+                
+            
+      -  name: Build with Maven
+         run: mvn -B --settings $GITHUB_WORKSPACE/settings.xml clean test install site
+         env:
+            GITHUB_USERNAME: piranha-github-machine-user@otto.de
+            GITHUB_TOKEN: ${{ secrets.PIRANHA_GITHUB_MACHINE_USER_TOKEN }}
+            
+      -  name: Upload Maven Site Reports to GitHub Artifacts
+         if: ${{ always() }}
+         uses: actions/upload-artifact@v2
+         with:
+            name: MavenSiteReports
+            path: ./target/site/**
+
+ 
+      -  name: Download MavenSiteReports artifacts
+         uses: actions/download-artifact@v2
+         with:
+            name: MavenSiteReports
+            path: ./artifacts/
+
+      -  name: Upload artifacts to GitHub Pages
+         uses: crazy-max/ghaction-github-pages@v2.2.0
+         with:
+            target_branch: gh-pages
+            build_dir: ./artifacts/
+            keep_history: false
+         env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+ 

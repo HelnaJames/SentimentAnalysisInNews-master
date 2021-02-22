@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/810234newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>CHINA: China July consumer retail sales up 13 pct yr/yr.<Node id="57"/>
+<Node id="58"/>China July consumer retail sales up 13 pct yr/yr.<Node id="107"/>
+<Node id="108"/>BEIJING 1997-08-19<Node id="126"/>
+<Node id="127"/>
+<Node id="128"/>China's retail sales of consumer goods in July rose 13 percent year-on-year, or 12.3 percent after inflation, to 210.3 billion yuan ($25.3 billion), spurred by brisk sales in consumer durables, state figures showed on Tuesday.<Node id="354"/>
+<Node id="355"/>Unusually hot weather in northern China stimulated purchases of air conditioners, electric fans, and beverages, while sales of consumer durables such as video compact disc players and large-screen televisions were also booming, the State Statistical Bureau said.<Node id="617"/>
+<Node id="618"/>Urban retail sales of consumer goods reached 129.5 billion yuan in July, rising 13.6 percent year-on-year, while rural sales grew by 12 percent, reaching 80.8 billion yuan, it said.<Node id="799"/>
+<Node id="800"/>Sales reached 1.510 trillion yuan in the first seven months of the year, rising 13.8 percent from the same period last year, or 12 percent after adjustment for inflation, it said.<Node id="979"/>
+<Node id="980"/>($1 = 8.3 yuan)<Node id="995"/>
+<Node id="996"/>-- Beijing Newsroom (86) 10-6532 1921; Fax (86) 10-6532 4978<Node id="1056"/>
+<Node id="1057"/>
+<Node id="1058"/>(c) Reuters Limited 1997<Node id="1082"/>
+<Node id="1083"/>
+<Node id="1084"/>
+  <Node id="1087"/>
+    <Node id="1092"/>
+  <Node id="1095"/>
+<Node id="1096"/>
+<Node id="1097"/>
+  <Node id="1100"/>
+    <Node id="1105"/>
+  <Node id="1108"/>
+  <Node id="1111"/>
+    <Node id="1116"/>
+  <Node id="1119"/>
+  <Node id="1122"/>
+    <Node id="1127"/>
+  <Node id="1130"/>
+<Node id="1131"/>
+<Node id="1132"/>
+<Node id="1133"/>
+<Node id="1134"/>
+<Node id="1135"/>
+<Node id="1136"/>
+<Node id="1137"/>
+<Node id="1138"/>
+<Node id="1139"/>
+<Node id="1140"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="30" Type="sentence" StartNode="58" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1140">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">810234</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="57">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="58" EndNode="107">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="108" EndNode="126">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="127" EndNode="1057">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="128" EndNode="354">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="355" EndNode="617">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="618" EndNode="799">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="800" EndNode="979">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="980" EndNode="995">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="996" EndNode="1056">
+</Annotation>
+<Annotation Id="11" Type="copyright" StartNode="1058" EndNode="1082">
+</Annotation>
+<Annotation Id="12" Type="metadata" StartNode="1083" EndNode="1139">
+</Annotation>
+<Annotation Id="13" Type="codes" StartNode="1084" EndNode="1096">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="code" StartNode="1087" EndNode="1095">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">CHINA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="editdetail" StartNode="1092" EndNode="1092">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="codes" StartNode="1097" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="code" StartNode="1100" EndNode="1108">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">E14</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="editdetail" StartNode="1105" EndNode="1105">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="code" StartNode="1111" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">E143</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="editdetail" StartNode="1116" EndNode="1116">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="code" StartNode="1122" EndNode="1130">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">ECAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="editdetail" StartNode="1127" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="dc" StartNode="1132" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="dc" StartNode="1133" EndNode="1133">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="dc" StartNode="1134" EndNode="1134">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="dc" StartNode="1135" EndNode="1135">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="dc" StartNode="1136" EndNode="1136">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">BEIJING</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="1137" EndNode="1137">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">CHINA</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="1138" EndNode="1138">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

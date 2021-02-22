@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/810350newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>TAIWAN: Taiwan stocks end mixed despite Wall Street rise.<Node id="58"/>
+<Node id="59"/>Taiwan stocks end mixed despite Wall Street rise.<Node id="108"/>
+<Node id="109"/>TAIPEI 1997-08-19<Node id="126"/>
+<Node id="127"/>
+<Node id="128"/>Taiwan share prices closed mixed despite momentum from Wall Street's big rebound overnight, as the market was trapped in caution by concerns over typhoon damages and upcoming cabinet reshuffle, brokers said.<Node id="335"/>
+<Node id="336"/>The weighted index, buoyed by Dow Jones industrial average's 1.4-percent rise on Monday, climbed to an intra-day peak of 9,806.29 in early session but lost steam in late trade to finish only 5.88 points or 0.06 percent to 9,712.45.<Node id="567"/>
+<Node id="568"/>Turnover was relatively light at T$117.63 billion.<Node id="618"/>
+<Node id="619"/>The Dow's rise on Monday helped it regain almost half of Friday's 247-point decline.  <Node id="705"/>
+<Node id="706"/>"Investors are feeling a bit cautious because of Wall Street's recent big movements," said Lin Long-hsien, analyst for United Securities.<Node id="843"/>
+<Node id="844"/>"The typhoon and the expected cabinet reshuffle later this week are all mild bearish factors," Lin said.<Node id="948"/>
+<Node id="949"/>Typhoon Winnie swept through northern Taiwan on Monday and Tuesday, killing at least 25 people and causing landslides that toppled numerous buildings.<Node id="1099"/>
+<Node id="1100"/>Although electronics gained 0.30 percent on Wall Street's rose, constructions fell 0.43 percent reflecting infrastructure damages caused by the typhoon.  <Node id="1254"/>
+<Node id="1255"/>Pao-Ku Co tumbled by its daily seven-percent limit or T$2.80 to T$37.50.<Node id="1327"/>
+<Node id="1328"/>"Any time after a typhoon ravages the island, the stock market will not be in a cheery mood," Lin said.<Node id="1431"/>
+<Node id="1432"/>Brokers said they did not expect the index to gain significant upside room until after the government launched its expected cabinet reshuffle later this week.<Node id="1590"/>
+<Node id="1591"/>A 9,650-9,800 range was seen for Wednesday.<Node id="1634"/>
+<Node id="1635"/>-- Taipei newsroom (886) 2-508-0815; Fax (886) 2-508-0204<Node id="1692"/>
+<Node id="1693"/>-- Email: taipei.newsroom@reuters.com<Node id="1730"/>
+<Node id="1731"/>
+<Node id="1732"/>(c) Reuters Limited 1997<Node id="1756"/>
+<Node id="1757"/>
+<Node id="1758"/>
+  <Node id="1761"/>
+    <Node id="1766"/>
+  <Node id="1769"/>
+<Node id="1770"/>
+<Node id="1771"/>
+  <Node id="1774"/>
+    <Node id="1779"/>
+  <Node id="1782"/>
+  <Node id="1785"/>
+    <Node id="1790"/>
+  <Node id="1793"/>
+<Node id="1794"/>
+<Node id="1795"/>
+<Node id="1796"/>
+<Node id="1797"/>
+<Node id="1798"/>
+<Node id="1799"/>
+<Node id="1800"/>
+<Node id="1801"/>
+<Node id="1802"/>
+<Node id="1803"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="36" Type="sentence" StartNode="59" EndNode="108">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referred_entity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1803">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">810350</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="58">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="59" EndNode="108">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="109" EndNode="126">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="127" EndNode="1731">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="128" EndNode="335">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="336" EndNode="567">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="568" EndNode="618">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="619" EndNode="705">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="706" EndNode="843">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="844" EndNode="948">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="949" EndNode="1099">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1100" EndNode="1254">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1255" EndNode="1327">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1328" EndNode="1431">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1432" EndNode="1590">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1591" EndNode="1634">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="1635" EndNode="1692">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="1693" EndNode="1730">
+</Annotation>
+<Annotation Id="19" Type="copyright" StartNode="1732" EndNode="1756">
+</Annotation>
+<Annotation Id="20" Type="metadata" StartNode="1757" EndNode="1802">
+</Annotation>
+<Annotation Id="21" Type="codes" StartNode="1758" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="code" StartNode="1761" EndNode="1769">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">TAIWAN</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="editdetail" StartNode="1766" EndNode="1766">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="codes" StartNode="1771" EndNode="1794">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="code" StartNode="1774" EndNode="1782">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="editdetail" StartNode="1779" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="code" StartNode="1785" EndNode="1793">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">MCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="editdetail" StartNode="1790" EndNode="1790">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="1795" EndNode="1795">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="1796" EndNode="1796">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="1797" EndNode="1797">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="1798" EndNode="1798">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="1799" EndNode="1799">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">TAIPEI</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="1800" EndNode="1800">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">TAIWAN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="dc" StartNode="1801" EndNode="1801">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

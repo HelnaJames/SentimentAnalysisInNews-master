@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="config0"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/lib/apache-opennlp-1.7.2-bin.zip"/>
+	<classpathentry kind="lib" path="src/lib/apache-opennlp-1.7.2-src.zip"/>
+	<classpathentry kind="lib" path="src/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/gridSearch-1.0.8.jar"/>
+	<classpathentry kind="lib" path="src/lib/libsvm-3.17.jar"/>
+	<classpathentry kind="lib" path="src/lib/Lucene.zip"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-3.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/opennlp-maxent-3.0.1-incubating.jar"/>
+	<classpathentry kind="lib" path="src/lib/opennlp-uima-1.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/lib/opennlp-uima-1.7.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/stanford-corenlp-3.7.0-models-english-kbp.jar"/>
+	<classpathentry kind="lib" path="src/lib/stanford-corenlp-3.7.0-models-english.jar"/>
+	<classpathentry kind="lib" path="src/lib/stanford-corenlp-3.7.0-models.jar"/>
+	<classpathentry kind="lib" path="src/lib/stanford-corenlp-3.7.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/weka-stable-3.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/babelfy-commons-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/lib/jltutils-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy/Babelfy-online-API-1.0/babelfy-online-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/jltutils-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/jwi-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/log4j-core-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/lucene-core-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/lib/lucene-queryparser-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet/BabelNet-API-3.7.1/babelnet-api-3.7.1.jar"/>
+	<classpathentry kind="lib" path="H:/workspace/Sentiment_Analysis/src/lib/lucene-analyzers-common-6.4.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

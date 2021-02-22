@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/807638newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>USA: Vitamin A derivative may offer cancer hope.<Node id="49"/>
+<Node id="50"/>Vitamin A derivative may offer cancer hope.<Node id="93"/>
+<Node id="94"/>WASHINGTON 1997-08-19<Node id="115"/>
+<Node id="116"/>
+<Node id="117"/>By Maggie Fox, Health Correspondent<Node id="152"/>
+<Node id="153"/>U.S. scientists said on Tuesday they had found strong evidence that a synthetic version of vitamin A can fight cancer by making tumor cells self-destruct, opening a new and less painful route to cancer therapy.<Node id="363"/>
+<Node id="364"/>The chemical is a retinoid known as 4HPR, and experiments have shown it can cause cancer cells to commit "suicide", they wrote in a report in the Journal of the National Cancer Institute.<Node id="551"/>
+<Node id="552"/>Reuben Lotan and colleagues at the University of Texas in Houston said a buildup of free oxygen radicals somehow seemed to restore the natural self-destruct process.<Node id="717"/>
+<Node id="718"/>Most cells usually die automatically when they are damaged or just too old. But in cancer this process, known as apoptosis, fails.<Node id="848"/>
+<Node id="849"/>The result is uncontrolled cell growth and a tumor.<Node id="900"/>
+<Node id="901"/>Various studies have shown that retinoids can destroy cancer cells including leukoplakia, a type of tongue cancer, and cancers of the head, neck, lung and liver.<Node id="1062"/>
+<Node id="1063"/>Retinoids have also been tried against cervical cancer in a combination with interferon, a natural immune system substance.<Node id="1186"/>
+<Node id="1187"/>Lotan said 4HPR might trigger apoptosis by causing a toxic build-up of free oxygen radicals inside cells that had already turned cancerous. Free radicals are charged molecules that react easily with other molecules and are believed to help cause cancer by damaging cell DNA.<Node id="1461"/>
+<Node id="1462"/>Lotan's group grew cervical cancer cells in dishes and exposed them to 4HPR. The more of the compound they put on the cells, the more cells died off.<Node id="1611"/>
+<Node id="1612"/>They looked at the dead cells and found fragmentation of the DNA characteristic of apoptosis.<Node id="1705"/>
+<Node id="1706"/>Italian researchers told a recent conference in Houston that they had tried giving 4HPR pills to women with breast cancer and seen some positive results.<Node id="1859"/>
+<Node id="1860"/>"We clearly see effects of the 4HPR on cell viability and we see that it can induce apoptosis," Lotan said.<Node id="1967"/>
+<Node id="1968"/>"It is  a promising agent but the clinical trials that are now ongoing will have the final word. If it kills cancer cells then obviously it can be used in cancer treatment."<Node id="2141"/>
+<Node id="2142"/>Ethan Dmitrovsky of the Memorial Sloan-Kettering Cancer Center in New York said 4HPR might prove useful in combination therapy.<Node id="2269"/>
+<Node id="2270"/>"Such treatment may benefit patients who already have cancer or prevent cancers from arising in 'high-risk' individuals," he wrote in a commentary on the report.<Node id="2431"/>
+<Node id="2432"/>
+<Node id="2433"/>(c) Reuters Limited 1997<Node id="2457"/>
+<Node id="2458"/>
+<Node id="2459"/>
+  <Node id="2462"/>
+    <Node id="2467"/>
+  <Node id="2470"/>
+<Node id="2471"/>
+<Node id="2472"/>
+  <Node id="2475"/>
+    <Node id="2480"/>
+  <Node id="2483"/>
+  <Node id="2486"/>
+    <Node id="2491"/>
+  <Node id="2494"/>
+  <Node id="2497"/>
+    <Node id="2502"/>
+  <Node id="2505"/>
+<Node id="2506"/>
+<Node id="2507"/>
+<Node id="2508"/>
+<Node id="2509"/>
+<Node id="2510"/>
+<Node id="2511"/>
+<Node id="2512"/>
+<Node id="2513"/>
+<Node id="2514"/>
+<Node id="2515"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="40" Type="sentence" StartNode="50" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="2515">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">807638</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="49">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="50" EndNode="93">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="94" EndNode="115">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="116" EndNode="2432">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="117" EndNode="152">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="153" EndNode="363">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="364" EndNode="551">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="552" EndNode="717">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="718" EndNode="848">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="849" EndNode="900">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="901" EndNode="1062">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1063" EndNode="1186">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1187" EndNode="1461">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1462" EndNode="1611">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1612" EndNode="1705">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1706" EndNode="1859">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="1860" EndNode="1967">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="1968" EndNode="2141">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2142" EndNode="2269">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="2270" EndNode="2431">
+</Annotation>
+<Annotation Id="21" Type="copyright" StartNode="2433" EndNode="2457">
+</Annotation>
+<Annotation Id="22" Type="metadata" StartNode="2458" EndNode="2514">
+</Annotation>
+<Annotation Id="23" Type="codes" StartNode="2459" EndNode="2471">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="code" StartNode="2462" EndNode="2470">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">USA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="editdetail" StartNode="2467" EndNode="2467">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="codes" StartNode="2472" EndNode="2506">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="code" StartNode="2475" EndNode="2483">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="editdetail" StartNode="2480" EndNode="2480">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="code" StartNode="2486" EndNode="2494">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GHEA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="editdetail" StartNode="2491" EndNode="2491">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="code" StartNode="2497" EndNode="2505">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GSCI</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="editdetail" StartNode="2502" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="2507" EndNode="2507">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="2508" EndNode="2508">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="dc" StartNode="2509" EndNode="2509">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="dc" StartNode="2510" EndNode="2510">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="dc" StartNode="2511" EndNode="2511">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">WASHINGTON</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="dc" StartNode="2512" EndNode="2512">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">USA</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="dc" StartNode="2513" EndNode="2513">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

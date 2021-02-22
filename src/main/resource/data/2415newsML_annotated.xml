@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960820/2415newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+AUSTRALIA: Australian govt pushes budget, despite protests.
+<Node id="61"/>Australian govt <Node id="77"/>pushes<Node id="83"/> budget<Node id="90"/>, despite protests.<Node id="109"/>
+Bradley Perrett
+CANBERRA 1996-08-21
+
+<Node id="147"/>Australia's new conservative government on Wednesday began<Node id="205"/> selling its tough deficit-slashing budget<Node id="247"/>, which <Node id="255"/>sparked violent protests<Node id="279"/> by Aborigines, unions, students and welfare groups even before it was announced.<Node id="360"/>
+<Node id="361"/>Two days of anti-budget street protests preceded spending cuts officially unveiled by Treasurer Peter Costello.<Node id="472"/>
+<Node id="473"/>"This is a once-in-a-decade chance to get it right,"<Node id="525"/> Costello <Node id="535"/>said in a radio interview.<Node id="561"/>
+<Node id="562"/>"If we don't do it now, <Node id="586"/>Australia<Node id="595"/> is going to be in <Node id="614"/>deficit<Node id="621"/> and <Node id="626"/>debt<Node id="630"/> into the next century."<Node id="654"/>
+<Node id="655"/>Tuesday's budget sliced A$4 billion (US$3.1 billion) from the budget for the current fiscal year, to June 1997, as a first instalment towards an underlying surplus (excluding asset sales) by 1998/99.<Node id="854"/>
+Costello told parliament the 1996/97 deficit would be A$5.6 billion, down from A$10.3 last year.
+Earlier, about 150 protesting Aborigines had attacked police with bricks, bottles and stakes during a 20-minute confrontation near the Parliament House.
+As the protesters had feared, Costello revealed a cut to the government's Aboriginal welfare commission among the hundreds of measures implemented to claw back the deficit.
+Programmes for the unemployed were heavily cut, and Costello fended off criticism that the government, driven by conservative ideology, had targetted the poor.
+"There'll be a lot of people quaffing their wines down at Pitt Street who won't like it," he said, referring to Sydney's central business district.
+Financial markets were mildly disappointed that the budget failed to be as tough as they expected. The Australian dollar and bonds fell immediately after the budget announcement.
+The government's political opponents accused it of sleight of hand, taking from the public when it appeared to give.
+The budget's fate was not immediately clear, with minor parties refusing to guarantee passage through the Senate, the upper house of parliament.
+Australian Democrats leader Cheryl Kernot said it was too early to say if her party would pass all measures.
+The government needs two extra votes -- from the Democrats, the two Greens or two Independents -- to get its legislation past the Labor Opposition in the Senate.
+Labor, beaten in the March 2 federal election and which the government blames for Australia's economic woes after 13 years of Labor rule, said the government was hurting the weakest groups in society and was short on detail.
+The head of the Australian Council of Trade Unions, Jennie George, told reporters the budget hurt the weakest groups in the community and did nothing to solve Australia's high unemployment rate - now 8.5 percent.
+"The scenario for unemployment is very bleak indeed," George said.
+The cuts, many of which had been disclosed ahead of the budget, have sparked protests around the country and triggered rioting during a protest by unionists, students, Aborigines and welfare groups at Parliament House on Monday.
+Violence flared again on Tuesday as Aboriginals gathered in Canberra to protest against funding cuts.
+But financial markets, which had been expecting a lower deficit were lukewarm.
+"It's a relatively tough budget but not as tough as advertised. That's the bottom line that is coming through," UBS Australia chief economist Stephen Roberts told Reuters.
+(A$ -- US$0.785)
+
+(c) Reuters Limited 1996
+
+
+  
+    
+  
+
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="65" Type="sentence" StartNode="361" EndNode="472">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="narrator" StartNode="525" EndNode="535">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N4_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="sentence" StartNode="473" EndNode="561">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="source_phrase" StartNode="614" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="source_phrase" StartNode="626" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="direct_target" StartNode="586" EndNode="595">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="sentence" StartNode="562" EndNode="654">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="sentence" StartNode="655" EndNode="854">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="sentence" StartNode="61" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">low</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="source_phrase" StartNode="77" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="source_phrase" StartNode="255" EndNode="279">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="subject" StartNode="205" EndNode="247">
+<Feature>
+  <Name className="java.lang.String">subject_id</Name>
+  <Value className="java.lang.String">Sub2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="sentence" StartNode="147" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="direct_target" StartNode="83" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+</AnnotationSet>
+
+</GateDocument>

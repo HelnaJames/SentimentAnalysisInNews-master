@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960820/2493newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>USA: Consumer Reports finds sport/utilities unsafe.<Node id="52"/>
+<Node id="53"/>Consumer Reports finds <Node id="76"/>sport/utilities<Node id="91"/> <Node id="92"/>unsafe<Node id="98"/>.<Node id="99"/>
+<Node id="100"/>Mark Wallace<Node id="112"/>
+<Node id="113"/>NEW YORK 1996-08-20<Node id="132"/>
+<Node id="133"/>
+<Node id="134"/>Consumer Reports magazine<Node id="159"/> slapped a<Node id="169"/> "Not Acceptable"<Node id="186"/> label on <Node id="196"/>two sport/utility vehicles<Node id="222"/> Tuesday, saying the light trucks "have too great a tendency to roll over in certain situations."<Node id="319"/>
+<Node id="320"/>The magazine<Node id="332"/> said the 1995 and 1996 models of the Isuzu Trooper, made by Isuzu Motors Ltd., and the 1996 Acura SLX, also made by Isuzu but sold by Honda Motor Co. Ltd., were a<Node id="495"/> danger<Node id="502"/> to<Node id="505"/> consumers<Node id="515"/> because they "<Node id="530"/>tipped up high on two wheels<Node id="558"/>" in road tests.<Node id="574"/>
+<Node id="575"/>The<Node id="578"/> magazine<Node id="587"/> said consumers should stop buying the models, called for an immediate recall of the approximately 35,000 cars that have been sold and said repairs or replacement models should be offered by the manufacturer.<Node id="795"/>
+<Node id="796"/>"We don't think a vehicle that has these characteristics should do what it did when subjected to this not inconceivable situation," said<Node id="932"/> Bob Knoll<Node id="942"/>, director of testing for Consumer Reports' auto division, in a telephone interview<Node id="1025"/>
+<Node id="1026"/>A spokesman for Isuzu <Node id="1048"/>defended<Node id="1056"/> the vehicles<Node id="1069"/>.<Node id="1070"/>
+<Node id="1071"/>"It's very important for both consumers in general and Isuzu Trooper owners to understand very clearly that the Isuzu Trooper meets all federal safety standards and regulations," Isuzu spokesman Daniel McCue told Reuters.<Node id="1292"/>
+<Node id="1293"/>But Smith Barney analyst David Garrity said the report by the influential magazine could prove damaging.<Node id="1397"/>
+<Node id="1398"/>"If Consumer Reports comes out and says, 'Don't buy this product,' the sales will go down," Garrity said. "You saw what happened to the Suzuki Samurai in the '80s."<Node id="1562"/>
+<Node id="1563"/>The tiny Suzuki Samurai, introduced in the mid-1980s, was also the target of a Consumer Reports article alleging that the sport/utility vehicle was prone to rollovers. The campaign eventually led to the vehicle being pulled off the market.<Node id="1802"/>
+<Node id="1803"/>Garrity said the report was a blow to Honda's Acura brand, which it has worked hard to cultivate. "If I were Honda, I'd demand (of Isuzu) that the problem be fixed, and I'd be more focused on developing my own product," he said.<Node id="2031"/>
+<Node id="2032"/>Consumer Reports also asked the National Highway Traffic Safety Administration to investigate the Trooper and SLX and called for more stringent government oversight of vehicles with narrow wheelbases.<Node id="2232"/>
+<Node id="2233"/>Government regulations currently call for all vehicles with a wheel base of 110 inches or less to carry a warning sticker stating that "sharp turns or abrupt manoeuvres" may cause the vehicle to roll over or crash.<Node id="2447"/>
+<Node id="2448"/>Both the Trooper and the SLX have wheelbases of 108.7 inches.<Node id="2509"/>
+<Node id="2510"/>Both companies said they were reviewing Consumer Report's test data and would look further into the matter.<Node id="2617"/>
+<Node id="2618"/>Neither McCue nor Acura spokesman Mike Spencer knew of any reports from customers of their vehicles tipping or rolling over, and neither knew of any ongoing NHTSA investigation.<Node id="2795"/>
+<Node id="2796"/>"We have not had an opportunity to thoroughly review the testing methodology used. Nevertheless, Acura believes the SLX is a safe and reliable vehicle when driven in a responsible manner," Spencer told Reuters.<Node id="3006"/>
+<Node id="3007"/>According to Spencer, only about 1,857 SLXs have been sold since the vehicle was introduced in November, 1995.<Node id="3117"/>
+<Node id="3118"/>
+<Node id="3119"/>(c) Reuters Limited 1996<Node id="3143"/>
+<Node id="3144"/>
+<Node id="3145"/>
+  
+    <Node id="3153"/>
+  
+<Node id="3157"/>
+<Node id="3158"/>
+<Node id="3159"/>
+<Node id="3160"/>
+<Node id="3161"/>
+<Node id="3162"/>
+<Node id="3163"/>
+<Node id="3164"/>
+<Node id="3165"/>
+<Node id="3166"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="35" Type="source_phrase" StartNode="92" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="direct_target" StartNode="76" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="sentence" StartNode="53" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="source_phrase" StartNode="169" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="direct_target" StartNode="196" EndNode="222">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="narrator" StartNode="134" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="sentence" StartNode="134" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="narrator" StartNode="320" EndNode="332">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referred_entity</Name>
+  <Value className="java.lang.String">N2_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="source_phrase" StartNode="495" EndNode="502">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="direct_target" StartNode="505" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="subject" StartNode="530" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">subject_id</Name>
+  <Value className="java.lang.String">Sub3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="sentence" StartNode="320" EndNode="574">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="narrator" StartNode="578" EndNode="587">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N4_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="sentence" StartNode="575" EndNode="795">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="narrator" StartNode="932" EndNode="942">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="sentence" StartNode="796" EndNode="1025">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="sentence" StartNode="1026" EndNode="1070">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="source_phrase" StartNode="1048" EndNode="1056">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="direct_target" StartNode="1056" EndNode="1069">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="3166">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">2493</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="52">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="53" EndNode="99">
+</Annotation>
+<Annotation Id="3" Type="byline" StartNode="100" EndNode="112">
+</Annotation>
+<Annotation Id="4" Type="dateline" StartNode="113" EndNode="132">
+</Annotation>
+<Annotation Id="5" Type="text" StartNode="133" EndNode="3118">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="134" EndNode="319">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="320" EndNode="574">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="575" EndNode="795">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="796" EndNode="1025">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="1026" EndNode="1070">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1071" EndNode="1292">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1293" EndNode="1397">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1398" EndNode="1562">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1563" EndNode="1802">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1803" EndNode="2031">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="2032" EndNode="2232">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="2233" EndNode="2447">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="2448" EndNode="2509">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2510" EndNode="2617">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="2618" EndNode="2795">
+</Annotation>
+<Annotation Id="21" Type="p" StartNode="2796" EndNode="3006">
+</Annotation>
+<Annotation Id="22" Type="p" StartNode="3007" EndNode="3117">
+</Annotation>
+<Annotation Id="23" Type="copyright" StartNode="3119" EndNode="3143">
+</Annotation>
+<Annotation Id="24" Type="metadata" StartNode="3144" EndNode="3165">
+</Annotation>
+<Annotation Id="25" Type="codes" StartNode="3145" EndNode="3157">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="editdetail" StartNode="3153" EndNode="3153">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="3158" EndNode="3158">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="3159" EndNode="3159">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="3160" EndNode="3160">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="3161" EndNode="3161">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="3162" EndNode="3162">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">NEW YORK</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="3163" EndNode="3163">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">USA</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="3164" EndNode="3164">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

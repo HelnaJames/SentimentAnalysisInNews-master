@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960821/4991newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>UKRAINE: Ukraine appeases angry China over Taiwan VP visit.<Node id="60"/>
+<Node id="61"/>Ukraine <Node id="69"/>appeases angry<Node id="83"/> China<Node id="89"/> over Taiwan VP visit.<Node id="111"/>
+<Node id="112"/>Rostislav Khotin<Node id="128"/>
+<Node id="129"/>KIEV 1996-08-21<Node id="144"/>
+<Node id="145"/>
+<Node id="146"/>Ukraine tried to <Node id="163"/>soothe<Node id="169"/> China's anger<Node id="183"/> on Wednesday over a visit by Taiwanese Vice-President Lien Chan and re-affirmed Kiev's commitment to a "one China" policy.<Node id="306"/>
+<Node id="307"/>"We in Kiev regard Taiwan as an integral part of China. Nothing should damage our relations with China," Foreign Minister<Node id="428"/> Hennady Udovenko<Node id="445"/> told reporters.<Node id="461"/>
+<Node id="462"/>"<Node id="463"/>We think the private trip of the Taiwanese representative on a private invitation should not be enough to worsen Ukrainian-Chinese relations."<Node id="605"/>
+<Node id="606"/>China has already reacted to the visit by<Node id="647"/> scrapping<Node id="657"/> a planned trip to Kiev<Node id="680"/> by a delegation headed by Li Tieying, chairman of the State Commission for Economic Restructuring<Node id="778"/>.<Node id="779"/> The visitors had been due to arrive on Wednesday for five days and hold meetings with President Leonid Kuchma and Prime Minister Pavlo Lazarenko.<Node id="925"/>
+<Node id="926"/>Officials in Kiev, which regards China as one of its most important political and economic partners, were clearly upset over the row. Udovenko said the postponement of the visit was a "temporary decision".<Node id="1131"/>
+<Node id="1132"/>Lien left Ukraine on Wednesday afternoon after a three-day visit at the invitation of the chancellor of Kiev State University, which granted him an honorary degree. He also visited Ukraine's separatist pro-Russia Crimean peninsula.<Node id="1363"/>
+<Node id="1364"/>A Chinese spokesman in Beijing said Lien's trip to Ukraine to accept a degree had been made with political motives. China's ambassador to Ukraine protested to the Foreign Ministry and announced the cancellation of Li Tieying's visit.<Node id="1597"/>
+<Node id="1598"/>Taiwan State Radio said Lien had met Ukraine's president on Wednesday. Kiev denied the report.<Node id="1692"/>
+<Node id="1693"/>"There was no meeting. Neither official, nor private nor non-official. I officially deny that information," a spokesman for Kuchma said. "There is no point at all for the president to meet him. The Chinese are even angry over his private stay in Ukraine."<Node id="1948"/>
+<Node id="1949"/>Officials blamed a lack of coordination between governmental bodies. Ukraine had denied Lien's presence in the country immediately after the first media reports that he was here.<Node id="2127"/>
+<Node id="2128"/>"We are innocent, and this is all so stupid. When we were saying that he was not here -- well, much to our surprise, he was," a top Ukrainian diplomat told Reuters. "We made fools of ourselves by allowing the world to see this mess."<Node id="2361"/>
+<Node id="2362"/>China regards Nationalist-ruled Taiwan as a rebel province and has sought to isolate the island diplomatically since a civil war separated them in 1949.<Node id="2514"/>
+<Node id="2515"/>China is Ukraine's second largest economic partner after Russia with annual bilateral trade totalling almost $1 billion. Kiev has no diplomatic or official ties with Taiwan.<Node id="2688"/>
+<Node id="2689"/>A Chinese spokesman said on Tuesday Ukraine's acceptance of Lien's visit had constituted a grave violation of its commitment on the question of Taiwan in a 1994 communique which established diplomatic ties between China and Ukraine.<Node id="2921"/>
+<Node id="2922"/>
+<Node id="2923"/>(c) Reuters Limited 1996<Node id="2947"/>
+<Node id="2948"/>
+<Node id="2949"/>
+  <Node id="2952"/>
+    <Node id="2957"/>
+  <Node id="2960"/>
+  <Node id="2963"/>
+    <Node id="2968"/>
+  <Node id="2971"/>
+  <Node id="2974"/>
+    <Node id="2979"/>
+  <Node id="2982"/>
+<Node id="2983"/>
+<Node id="2984"/>
+  <Node id="2987"/>
+    <Node id="2992"/>
+  <Node id="2995"/>
+  <Node id="2998"/>
+    <Node id="3003"/>
+  <Node id="3006"/>
+<Node id="3007"/>
+<Node id="3008"/>
+<Node id="3009"/>
+<Node id="3010"/>
+<Node id="3011"/>
+<Node id="3012"/>
+<Node id="3013"/>
+<Node id="3014"/>
+<Node id="3015"/>
+<Node id="3016"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="41" Type="source_phrase" StartNode="69" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="direct_target" StartNode="83" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="sentence" StartNode="61" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="source_phrase" StartNode="163" EndNode="169">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="direct_target" StartNode="169" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="sentence" StartNode="146" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="narrator" StartNode="428" EndNode="445">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="sentence" StartNode="307" EndNode="461">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="sentence" StartNode="463" EndNode="605">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="source_phrase" StartNode="647" EndNode="657">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="direct_target" StartNode="657" EndNode="680">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="sentence" StartNode="606" EndNode="778">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="sentence" StartNode="779" EndNode="925">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="3016">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">4991</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="60">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="61" EndNode="111">
+</Annotation>
+<Annotation Id="3" Type="byline" StartNode="112" EndNode="128">
+</Annotation>
+<Annotation Id="4" Type="dateline" StartNode="129" EndNode="144">
+</Annotation>
+<Annotation Id="5" Type="text" StartNode="145" EndNode="2922">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="146" EndNode="306">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="307" EndNode="461">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="462" EndNode="605">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="606" EndNode="925">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="926" EndNode="1131">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1132" EndNode="1363">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1364" EndNode="1597">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1598" EndNode="1692">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1693" EndNode="1948">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1949" EndNode="2127">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="2128" EndNode="2361">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="2362" EndNode="2514">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="2515" EndNode="2688">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2689" EndNode="2921">
+</Annotation>
+<Annotation Id="20" Type="copyright" StartNode="2923" EndNode="2947">
+</Annotation>
+<Annotation Id="21" Type="metadata" StartNode="2948" EndNode="3015">
+</Annotation>
+<Annotation Id="22" Type="codes" StartNode="2949" EndNode="2983">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="code" StartNode="2952" EndNode="2960">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">CHINA</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="editdetail" StartNode="2957" EndNode="2957">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="code" StartNode="2963" EndNode="2971">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">TAIWAN</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="editdetail" StartNode="2968" EndNode="2968">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="code" StartNode="2974" EndNode="2982">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">UKRN</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="editdetail" StartNode="2979" EndNode="2979">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="codes" StartNode="2984" EndNode="3007">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="code" StartNode="2987" EndNode="2995">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="editdetail" StartNode="2992" EndNode="2992">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="code" StartNode="2998" EndNode="3006">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">GDIP</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="editdetail" StartNode="3003" EndNode="3003">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="3008" EndNode="3008">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="dc" StartNode="3009" EndNode="3009">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="dc" StartNode="3010" EndNode="3010">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="dc" StartNode="3011" EndNode="3011">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="dc" StartNode="3012" EndNode="3012">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">KIEV</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="dc" StartNode="3013" EndNode="3013">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">UKRAINE</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="dc" StartNode="3014" EndNode="3014">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

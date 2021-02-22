@@ -1,0 +1,25 @@
+
+Naive_bayes Classifier Results
+======
+ 
+Correctly Classified Instances           5               83.3333 %
+Incorrectly Classified Instances         1               16.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.2778
+Root mean squared error                  0.3208
+Relative absolute error                 83.3333 %
+Root relative squared error             83.9921 %
+Total Number of Instances                6     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         1          0.833     1         0.909      0.9      negative
+                 0         0          0         0         0          0.9      positive
+Weighted Avg.    0.833     0.833      0.694     0.833     0.758      0.9  
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 5 0 | a = negative
+ 1 0 | b = positive

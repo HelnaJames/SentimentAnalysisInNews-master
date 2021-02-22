@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/807952newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>UK: IPE Brent ends up 14 cents, driven by US gasoline.<Node id="55"/>
+<Node id="56"/>IPE Brent ends up 14 cents, driven by US gasoline.<Node id="106"/>
+<Node id="107"/>LONDON 1997-08-19<Node id="124"/>
+<Node id="125"/>
+<Node id="126"/>IPE October Brent futures ended up 14 cents a barrel at $19.07 on Tuesday due to soaring United States gasoline futures and a blockage to Venezuela's main oil export route.<Node id="298"/>
+<Node id="299"/>"Gasoline was soaring. Brent got a tow higher but it slipped slightly at the end," said a floor broker.<Node id="402"/>
+<Node id="403"/>Dealers expect a bullish report from the American Petroleum Institute later on Tuesday showing falling stocks in the U.S. for the eighth consecutive week.<Node id="557"/>
+<Node id="558"/>NYMEX gasoline was up around two cents a gallon or 84 cents a barrel, helping to lift crude on both sides of the Atlantic.<Node id="680"/>
+<Node id="681"/>Brent futures were also boosted by news from shipping sources that Venezuela's main oil shipping channel had been blocked.<Node id="803"/>
+<Node id="804"/>A dredger went aground in the Lake Maracaibo shipping lane shutting the channel to oil tankers which normally export more than one million barrels of crude per day.<Node id="968"/>
+<Node id="969"/>Tugs were trying to refloat the dredger at 2000 Gmt on Tuesday.<Node id="1032"/>
+<Node id="1033"/>Despite the strong gains on Brent futures, October was rejected by technical resistance at $19.29, the high from last Thursday.<Node id="1160"/>
+<Node id="1161"/>But some dealers expect a renewed assault on that level soon if gasoline stays strong.<Node id="1247"/>
+<Node id="1248"/>A few hours earlier gas oil futures ended up $2.25 a tonne at $172 for September. But a sluggish demand and brimming oil tanks were making gains difficult, said dealers.<Node id="1417"/>
+<Node id="1418"/>Stocks of winter heating oil are well above year ago levels and sellers are having to work harder than buyers to drum up interest.<Node id="1548"/>
+<Node id="1549"/>Prompt Rotterdam barges are at parity to the IPE, as are cargoes of Russian gas oil heading for Western buyers.<Node id="1660"/>
+<Node id="1661"/>--London newsroom, +44 171 542 4984<Node id="1696"/>
+<Node id="1697"/>
+<Node id="1698"/>(c) Reuters Limited 1997<Node id="1722"/>
+<Node id="1723"/>
+<Node id="1724"/>
+  <Node id="1727"/>
+    <Node id="1732"/>
+  <Node id="1735"/>
+<Node id="1736"/>
+<Node id="1737"/>
+  <Node id="1740"/>
+    <Node id="1745"/>
+  <Node id="1748"/>
+  <Node id="1751"/>
+    <Node id="1756"/>
+  <Node id="1759"/>
+  <Node id="1762"/>
+    <Node id="1767"/>
+  <Node id="1770"/>
+<Node id="1771"/>
+<Node id="1772"/>
+<Node id="1773"/>
+<Node id="1774"/>
+<Node id="1775"/>
+<Node id="1776"/>
+<Node id="1777"/>
+<Node id="1778"/>
+<Node id="1779"/>
+<Node id="1780"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="37" Type="sentence" StartNode="56" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1780">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">807952</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="55">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="56" EndNode="106">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="107" EndNode="124">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="125" EndNode="1697">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="126" EndNode="298">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="299" EndNode="402">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="403" EndNode="557">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="558" EndNode="680">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="681" EndNode="803">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="804" EndNode="968">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="969" EndNode="1032">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1033" EndNode="1160">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1161" EndNode="1247">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1248" EndNode="1417">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1418" EndNode="1548">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1549" EndNode="1660">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="1661" EndNode="1696">
+</Annotation>
+<Annotation Id="18" Type="copyright" StartNode="1698" EndNode="1722">
+</Annotation>
+<Annotation Id="19" Type="metadata" StartNode="1723" EndNode="1779">
+</Annotation>
+<Annotation Id="20" Type="codes" StartNode="1724" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="code" StartNode="1727" EndNode="1735">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="editdetail" StartNode="1732" EndNode="1732">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="codes" StartNode="1737" EndNode="1771">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="code" StartNode="1740" EndNode="1748">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M14</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="editdetail" StartNode="1745" EndNode="1745">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="code" StartNode="1751" EndNode="1759">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M143</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="editdetail" StartNode="1756" EndNode="1756">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="code" StartNode="1762" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">MCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="editdetail" StartNode="1767" EndNode="1767">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="1772" EndNode="1772">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="1773" EndNode="1773">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="1774" EndNode="1774">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="1775" EndNode="1775">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="1776" EndNode="1776">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">LONDON</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="dc" StartNode="1777" EndNode="1777">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="dc" StartNode="1778" EndNode="1778">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

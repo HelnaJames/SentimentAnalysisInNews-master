@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960820/2361newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>UK: Trocadero expects tripling of revenues.<Node id="44"/>
+<Node id="45"/>Trocadero<Node id="54"/> <Node id="55"/>expects tripling<Node id="71"/> of revenues<Node id="83"/>.<Node id="84"/>
+<Node id="85"/>Leslie Adler<Node id="97"/>
+<Node id="98"/>LONDON 1996-08-20<Node id="115"/>
+<Node id="116"/>
+<Node id="117"/>The <Node id="121"/>Trocadero entertainment complex<Node id="152"/> in the heart of London's Piccadilly marked its relaunch on Tuesday after a 50 million pound redevelopment that it said was <Node id="276"/>expected to triple<Node id="294"/> revenues over five years.<Node id="320"/>
+<Node id="321"/>"An estimated 55 million visitors a year pass by the Trocadero and some 20 million people come through the centre," <Node id="437"/>Nick Leslau<Node id="448"/>, chief executive of Trocadero Plc, told a news conference.<Node id="507"/>
+<Node id="508"/>The challenge, <Node id="523"/>he<Node id="525"/> said, was to convert visitors into money-spending consumers.<Node id="586"/>
+<Node id="587"/>Leslau<Node id="593"/> told Reuters that he expected the retail revenues to <Node id="647"/>triple<Node id="653"/> over the next five years, the time span in which he expects the centre to reach maturity.<Node id="743"/>
+<Node id="744"/>He<Node id="746"/> said Trocadero would seek to convert rental agreements into revenue-sharing deals as leases expire.<Node id="846"/>
+<Node id="847"/>Trocadero and Sega together invested about 50 million pounds in redesigning the centre -- shifting its focus from shopping to entertainment and giving it a flashy, high-tech look -- and installing a SegaWorld virtual reality centre due to open next month.<Node id="1102"/>
+<Node id="1103"/>An Imax 3D cinema is to open in early 1997.<Node id="1146"/>
+<Node id="1147"/>The complex's current entertainment and shopping tenants -- including cinemas, an amusement arcade and a Planet Hollywood restaurant as well as shops -- generate retail revenues of about 125 million pounds a year, Leslau said. Trocadero derives its revenues from the rental income it receives from these tenants.<Node id="1459"/>
+<Node id="1460"/>It recently entered into a joint venture for a Marvel Mania themed restaurant to be built adjacent to the Trocadero that will provide a base rental of one million pounds a year and a percentage of turnover.<Node id="1666"/>
+<Node id="1667"/>The Marvel Mania restaurant, based on characters from Marvel comics, is a joint venture with Robert Earl's Planet Hollywood and Ronald Perelman's Marvel Entertainment Group Inc .<Node id="1845"/>
+<Node id="1846"/>Trocadero's current rental deals provide guaranteed income that is sufficient to cover the complex's service debt and overhead for the next 22 years, Leslau said.<Node id="2008"/>
+<Node id="2009"/>It is also intent on exploiting the sponsorship potential of the complex.<Node id="2082"/>
+<Node id="2083"/>"We are currently negotiating with several potential sponsors for the complex and will be developing commercial partnerhsips with a range of companies who understand the power that our customer base can provide," Leslau said.<Node id="2308"/>
+<Node id="2309"/>"The Trocadero offers unrivalled opportunities for advertisers and sponsors to promote their products to an elusive youth market."<Node id="2439"/>
+<Node id="2440"/>Trocadero Plc was spun off from property management group Burford Holdings last November. Burford had acquired the Trocadero complex in September 1994 for 94 million pounds. At that time the Trocadero was a shopping mall.<Node id="2661"/>
+<Node id="2662"/>"The key to success at the Trocadero lay in its transformation from a shopping mall into a premier entertainment destination," Leslau added.<Node id="2802"/>
+<Node id="2803"/>-- London Newsroom +44 171 542 8958<Node id="2838"/>
+<Node id="2839"/>
+<Node id="2840"/>(c) Reuters Limited 1996<Node id="2864"/>
+<Node id="2865"/>
+<Node id="2866"/>
+  <Node id="2869"/>
+    <Node id="2874"/>
+  <Node id="2877"/>
+<Node id="2878"/>
+<Node id="2879"/>
+<Node id="2880"/>
+<Node id="2881"/>
+<Node id="2882"/>
+<Node id="2883"/>
+<Node id="2884"/>
+<Node id="2885"/>
+<Node id="2886"/>
+<Node id="2887"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="35" Type="sentence" StartNode="45" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="direct_target" StartNode="45" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="source_phrase" StartNode="55" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="sentence" StartNode="117" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="narrator" StartNode="121" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="source_phrase" StartNode="276" EndNode="294">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="direct_target" StartNode="121" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT2_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referred_entity</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="narrator" StartNode="437" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="sentence" StartNode="321" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="narrator" StartNode="523" EndNode="525">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N4_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referred_entity</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="sentence" StartNode="508" EndNode="586">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="narrator" StartNode="587" EndNode="593">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referred_entity</Name>
+  <Value className="java.lang.String">N3_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="sentence" StartNode="587" EndNode="743">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="source_phrase" StartNode="647" EndNode="653">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S5_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="sentence" StartNode="744" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">subjective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="narrator" StartNode="744" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">narrator_id</Name>
+  <Value className="java.lang.String">N6_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S6</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="2887">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">2361</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="44">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="45" EndNode="84">
+</Annotation>
+<Annotation Id="3" Type="byline" StartNode="85" EndNode="97">
+</Annotation>
+<Annotation Id="4" Type="dateline" StartNode="98" EndNode="115">
+</Annotation>
+<Annotation Id="5" Type="text" StartNode="116" EndNode="2839">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="117" EndNode="320">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="321" EndNode="507">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="508" EndNode="586">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="587" EndNode="743">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="744" EndNode="846">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="847" EndNode="1102">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1103" EndNode="1146">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1147" EndNode="1459">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1460" EndNode="1666">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1667" EndNode="1845">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1846" EndNode="2008">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="2009" EndNode="2082">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="2083" EndNode="2308">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2309" EndNode="2439">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="2440" EndNode="2661">
+</Annotation>
+<Annotation Id="21" Type="p" StartNode="2662" EndNode="2802">
+</Annotation>
+<Annotation Id="22" Type="p" StartNode="2803" EndNode="2838">
+</Annotation>
+<Annotation Id="23" Type="copyright" StartNode="2840" EndNode="2864">
+</Annotation>
+<Annotation Id="24" Type="metadata" StartNode="2865" EndNode="2886">
+</Annotation>
+<Annotation Id="25" Type="codes" StartNode="2866" EndNode="2878">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="code" StartNode="2869" EndNode="2877">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="editdetail" StartNode="2874" EndNode="2874">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="2879" EndNode="2879">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="2880" EndNode="2880">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="2881" EndNode="2881">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="2882" EndNode="2882">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="2883" EndNode="2883">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">LONDON</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="2884" EndNode="2884">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="2885" EndNode="2885">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

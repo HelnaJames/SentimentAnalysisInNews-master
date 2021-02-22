@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/RCV%20data/rcv1/19960820/2352newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>UK: British FTSE index closes at record 3,883 points.<Node id="54"/>
+<Node id="55"/>British FTSE index<Node id="73"/> <Node id="74"/>closes at record<Node id="90"/> 3,883 points.<Node id="104"/>
+<Node id="105"/>Elaine Hardcastle<Node id="122"/>
+<Node id="123"/>LONDON 1996-08-20<Node id="140"/>
+<Node id="141"/>
+<Node id="142"/>Britain's FTSE 100 stock index, which sank to its lowest year level a month ago, chalked up a record closing high on Tuesday led by bullish retail sector sentiment.<Node id="306"/>
+<Node id="307"/>"You probably couldn't have forecast a better background for the equity market than the one we've currently got," said one senior share trader. "The market has a lot going for it."<Node id="487"/>
+<Node id="488"/>The blue chip index closed 19.5 points higher at 3,883.2, surpassing the previous 3,872.9 record it set just last week.<Node id="607"/>
+<Node id="608"/>Gainers outweighed decliners by a margin of two to one but volume was a subdued 512.9 million shares as all eyes remained fixed on the outcome of the interest rate setting U.S. Federal Open Markets Committee, which was meeting as the London market closed.<Node id="863"/>
+<Node id="864"/>The retail stocks which led an early advance were boosted by the latest economic figures which flagged an improvement in British consumer sentiment.<Node id="1012"/>
+<Node id="1013"/>"The consumer credit figures this morning showed another booming month -- the consumer is back with a vengeance," another trader said.<Node id="1147"/>
+<Node id="1148"/>But the return of the so-called "feel-good factor" in the retail sector may also reduce the likelihood of any further cuts in UK interest rates, traders said.<Node id="1306"/>
+<Node id="1307"/>This view was shared by Britain's largest mortgage lender, the Halifax Building Society.<Node id="1395"/>
+<Node id="1396"/>"(A rate cut) would be more politically inspired than by the needs of the housing market," Halifax chairman Jon Foulds told reporters at the company's interim results' presentation.<Node id="1577"/>
+<Node id="1578"/>Leading the retail sector's advance, GUS was squeezed 23p higher to close at 663p, following the release of strong interim results from discount retailer Argos yesterday.<Node id="1748"/>
+<Node id="1749"/>On the back of the same wave of optimism, electronics retailer Dixons gained 11p to 535p and Kingfisher ended 14p higher at 668p, with dealers saying some investors anticipate more positive news from other half year results in the sector.<Node id="1987"/>
+<Node id="1988"/>Whether the UK share market as a whole continues to go from strength to strength is largely dependent on events across the Atlantic, especially and the outcome of the FOMC policy meeting.<Node id="2175"/>
+<Node id="2176"/>"We've really seen little or no selling today, (and) most people are assuming there will be no change (in U.S. rates)," one senior dealer said.<Node id="2319"/>
+<Node id="2320"/>But trade remained cautious in the U.S. and the Dow was little changed, up 3.7 points, when London markets closed.<Node id="2434"/>
+<Node id="2435"/>"We are still looking for reasurrance on U.S. rates," a dealer said. "If they don't increase rates now, we want to know when are they likely to".<Node id="2580"/>
+<Node id="2581"/>
+<Node id="2582"/>(c) Reuters Limited 1996<Node id="2606"/>
+<Node id="2607"/>
+<Node id="2608"/>
+  <Node id="2611"/>
+    <Node id="2616"/>
+  <Node id="2619"/>
+<Node id="2620"/>
+<Node id="2621"/>
+  <Node id="2624"/>
+    <Node id="2629"/>
+  <Node id="2632"/>
+<Node id="2633"/>
+<Node id="2634"/>
+<Node id="2635"/>
+<Node id="2636"/>
+<Node id="2637"/>
+<Node id="2638"/>
+<Node id="2639"/>
+<Node id="2640"/>
+<Node id="2641"/>
+<Node id="2642"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="36" Type="sentence" StartNode="55" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="source_phrase" StartNode="74" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="direct_target" StartNode="55" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">source_phrase_id</Name>
+  <Value className="java.lang.String">S1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">direct_target_id</Name>
+  <Value className="java.lang.String">DT1_1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="2642">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">2352</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="54">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="55" EndNode="104">
+</Annotation>
+<Annotation Id="3" Type="byline" StartNode="105" EndNode="122">
+</Annotation>
+<Annotation Id="4" Type="dateline" StartNode="123" EndNode="140">
+</Annotation>
+<Annotation Id="5" Type="text" StartNode="141" EndNode="2581">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="142" EndNode="306">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="307" EndNode="487">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="488" EndNode="607">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="608" EndNode="863">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="864" EndNode="1012">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1013" EndNode="1147">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1148" EndNode="1306">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1307" EndNode="1395">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="1396" EndNode="1577">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="1578" EndNode="1748">
+</Annotation>
+<Annotation Id="16" Type="p" StartNode="1749" EndNode="1987">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="1988" EndNode="2175">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="2176" EndNode="2319">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="2320" EndNode="2434">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="2435" EndNode="2580">
+</Annotation>
+<Annotation Id="21" Type="copyright" StartNode="2582" EndNode="2606">
+</Annotation>
+<Annotation Id="22" Type="metadata" StartNode="2607" EndNode="2641">
+</Annotation>
+<Annotation Id="23" Type="codes" StartNode="2608" EndNode="2620">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="code" StartNode="2611" EndNode="2619">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="editdetail" StartNode="2616" EndNode="2616">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="codes" StartNode="2621" EndNode="2633">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="code" StartNode="2624" EndNode="2632">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="editdetail" StartNode="2629" EndNode="2629">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="2634" EndNode="2634">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="2635" EndNode="2635">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="dc" StartNode="2636" EndNode="2636">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1996-08-20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="dc" StartNode="2637" EndNode="2637">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="dc" StartNode="2638" EndNode="2638">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">LONDON</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dc" StartNode="2639" EndNode="2639">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">UK</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="dc" StartNode="2640" EndNode="2640">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

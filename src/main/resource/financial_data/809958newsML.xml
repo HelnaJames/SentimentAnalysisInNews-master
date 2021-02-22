@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/H:/RCV%20data/rcv1/19970819/809958newsML.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>CZECH REPUBLIC: Czech blue chips rebound, lead PX50 index higher.<Node id="66"/>
+<Node id="67"/>Czech blue chips rebound, lead PX50 index higher.<Node id="116"/>
+<Node id="117"/>PRAGUE 1997-08-19<Node id="134"/>
+<Node id="135"/>
+<Node id="136"/>Czech blue chip shares rebounded on the Prague Stock Exchange on Tuesday, while broader issues also gained ground as the official PX50 index closed 2.7 points, or 0.50 percent higher at 540.5.<Node id="328"/>
+<Node id="329"/>Some high cap issues were hit hard in early trading this week, the result of a sharp drop on Wall Street at the end of last week.<Node id="458"/>
+<Node id="459"/>But SPT Telecom, CEZ and Komercni Banka -- which account for nearly one half of the index's capitalisation -- all bounced back on Tuesday.<Node id="597"/>
+<Node id="598"/>Total volume, boosted mainly by direct and block trades, was lighter at 443,887 shares on turnover of 698 million crowns. Overall, 104 shares closed higher, 86 were lower and 53 held steady.<Node id="788"/>
+<Node id="789"/>Radio transmission company Ceske Radiokomunikace continued to post solid gains with a 51 crown, 1.1 percent, rise to 4,651.<Node id="912"/>
+<Node id="913"/>The company has surged since TeleDanmark announced a week ago that it had taken a 20.8 percent stake in the company.<Node id="1029"/>
+<Node id="1030"/>While the news was welcomed as positive for Radiokomunikace, analysts have noted that the free float in the company is now extremely low, making it less attractive.<Node id="1194"/>
+<Node id="1195"/>"Although we feel this is a positive development for Radiokomunikace, TeleDanmark's purchase has lowered the already unimpressive free float to an estimated 5.8 percent, Eugene Klerk of ABN AMRO Hoare Govett said.<Node id="1408"/>
+<Node id="1409"/>"With (this)...we downgrade the stock from buy to hold," he added.<Node id="1475"/>
+<Node id="1476"/>
+<Node id="1477"/>(c) Reuters Limited 1997<Node id="1501"/>
+<Node id="1502"/>
+<Node id="1503"/>
+  <Node id="1506"/>
+    <Node id="1511"/>
+  <Node id="1514"/>
+<Node id="1515"/>
+<Node id="1516"/>
+  <Node id="1519"/>
+    <Node id="1524"/>
+  <Node id="1527"/>
+  <Node id="1530"/>
+    <Node id="1535"/>
+  <Node id="1538"/>
+<Node id="1539"/>
+<Node id="1540"/>
+<Node id="1541"/>
+<Node id="1542"/>
+<Node id="1543"/>
+<Node id="1544"/>
+<Node id="1545"/>
+<Node id="1546"/>
+<Node id="1547"/>
+<Node id="1548"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="31" Type="sentence" StartNode="67" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">intensity</Name>
+  <Value className="java.lang.String">medium</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">sentence_id</Name>
+  <Value className="java.lang.String">S1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">subjective/objective</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="newsitem" StartNode="0" EndNode="1548">
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">itemid</Name>
+  <Value className="java.lang.String">809958</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">xml:lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">root</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="title" StartNode="1" EndNode="66">
+</Annotation>
+<Annotation Id="2" Type="headline" StartNode="67" EndNode="116">
+</Annotation>
+<Annotation Id="3" Type="dateline" StartNode="117" EndNode="134">
+</Annotation>
+<Annotation Id="4" Type="text" StartNode="135" EndNode="1476">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="136" EndNode="328">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="329" EndNode="458">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="459" EndNode="597">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="598" EndNode="788">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="789" EndNode="912">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="913" EndNode="1029">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="1030" EndNode="1194">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="1195" EndNode="1408">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="1409" EndNode="1475">
+</Annotation>
+<Annotation Id="14" Type="copyright" StartNode="1477" EndNode="1501">
+</Annotation>
+<Annotation Id="15" Type="metadata" StartNode="1502" EndNode="1547">
+</Annotation>
+<Annotation Id="16" Type="codes" StartNode="1503" EndNode="1515">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:countries:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="code" StartNode="1506" EndNode="1514">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">CZREP</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="editdetail" StartNode="1511" EndNode="1511">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="codes" StartNode="1516" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bip:topics:1.0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="code" StartNode="1519" EndNode="1527">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">M11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="editdetail" StartNode="1524" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="code" StartNode="1530" EndNode="1538">
+<Feature>
+  <Name className="java.lang.String">code</Name>
+  <Value className="java.lang.String">MCAT</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="editdetail" StartNode="1535" EndNode="1535">
+<Feature>
+  <Name className="java.lang.String">attribution</Name>
+  <Value className="java.lang.String">Reuters BIP Coding Group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">action</Name>
+  <Value className="java.lang.String">confirmed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="dc" StartNode="1540" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.created</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="dc" StartNode="1541" EndNode="1541">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters Holdings Plc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.publisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="dc" StartNode="1542" EndNode="1542">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">1997-08-19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.date.published</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="dc" StartNode="1543" EndNode="1543">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dc" StartNode="1544" EndNode="1544">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">PRAGUE</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="dc" StartNode="1545" EndNode="1545">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">CZECH REPUBLIC</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.creator.location.country.name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="dc" StartNode="1546" EndNode="1546">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">value</Name>
+  <Value className="java.lang.String">Reuters</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">element</Name>
+  <Value className="java.lang.String">dc.source</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
